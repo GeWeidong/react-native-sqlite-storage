@@ -1,9 +1,19 @@
 # react-native-sqlite-storage
-react-native 与sqlite的结合demo
+基于React-Native & sqlite 豆瓣 API 搜索应用        
 
+##  主要功能   
 
-react-native-sqlite-storage/效果/1.png
++ 电影列表
++ 收藏列表
++ 浏览记录列表
 
-![Image text](https://github.com/GeWeidong/react-native-sqlite-storage/blob/master/%E6%95%88%E6%9E%9C/1.png)
-![Image text](https://github.com/GeWeidong/react-native-sqlite-storage/blob/master/%E6%95%88%E6%9E%9C/2.png)
-![Image text](https://github.com/GeWeidong/react-native-sqlite-storage/blob/master/%E6%95%88%E6%9E%9C/3.png)
+## 主要技术
++ Recat Native && Open API && sqlite       
+
+## 效果如下图
+![](2.gif)
+
+## 下载运行
++ cd (文件目录)
++ npm install
++ react-native run-android
