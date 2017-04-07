@@ -17,3 +17,5 @@
 + cd (文件目录)
 + npm install
 + react-native run-android
+
+
